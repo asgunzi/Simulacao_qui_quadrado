@@ -7,7 +7,7 @@ O Qui-quadrado é uma distribuição estatística, e o nome sempre me foi curios
 
 Bom, o Qui-quadrado, como o próprio nome indica, deve ter alguma relação com algo ao quadrado. Sim, e na realidade é soma da famosa variável aleatória Normal ao quadrado.
 
-![](Imagens/quico_de_chaves.png)
+![](Imagens/quico_de_chaves.jpg)
 
 Vamos fazer algumas simulações, para tangibilizar o conhecimento. Fiz as visualizações abaixo no Geogebra, e recomendo muito a sua utilização. E os código de simulação em Python.
 
