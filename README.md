@@ -56,4 +56,4 @@ Para k graus de liberdade onde k é grande, a curva tende a uma Normal com médi
 ![](Imagens/qui_20.png)
 
 Deixei o código da simulação no Github.
-https://github.com/asgunzi/Simulacao_qui_quadrado
+[https://github.com/asgunzi/Simulacao_qui_quadrado/blob/main/qui_quadrado.ipynb]([https://link-url-here.org](https://github.com/asgunzi/Simulacao_qui_quadrado/blob/main/qui_quadrado.ipynb))
