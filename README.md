@@ -26,7 +26,7 @@ Vamos começar com uma Normal apenas. A Normal padronizada significa que tem mé
 
 Quando elevo ao quadrado, os valores próximos a zero continuam próximos a zero, os valores grande se tornam maiores ainda. A média da Normal ao quadrado é igual a 1 (há uma demonstração até simples, é só pesquisar). E a Normal ao quadrado é a Qui-quadrado com 1 grau de liberdade.
 
-![](Imagens/Qui_1_simul.png)
+![](Imagens/qui2_01.png)
 
 E se eu somar mais duas Normais? Terei uma Qui-quadrado com 2 graus de liberdade.
 
@@ -45,7 +45,7 @@ for _ in range(N):
 
 Para 5 graus de liberdade, simulado via código e distribuição teórica.
 
-![](Imagens/qui_5.png)
+![](Imagens/qui2_05.png)
 
 
 Note que a média da curva agora será igual a 5, porque a média de uma qui-quadrado de grau de liberdade 1 é igual a 1 – e esta é somada 5 vezes.
@@ -53,7 +53,7 @@ Note que a média da curva agora será igual a 5, porque a média de uma qui-qua
 
 Para k graus de liberdade onde k é grande, a curva tende a uma Normal com média k (por conta da Lei dos Grandes Números).
 
-![](Imagens/qui_20.png)
+![](Imagens/qui2_20.png)
 
 Deixei o código da simulação no Github.
 https://github.com/asgunzi/Simulacao_qui_quadrado
